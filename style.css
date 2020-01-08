@@ -1,0 +1,120 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #0B132B;
+}
+header img {
+    width: 10%;
+    height: auto;
+    padding-bottom: 20px;
+    margin-left: 43%;
+    margin-top: 2%;
+}
+header img:hover {
+    cursor: pointer;
+}
+.blog-thumbnail img {
+    width: 1000px;
+    height: 700px;
+    margin-left: 11%;
+}
+.head {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    letter-spacing: 2px;
+    font-family: 'Saira', sans-serif;
+}
+.head a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+.head a:hover {
+    color: #eb2f06;
+    transition: all ease .5s;
+}
+.blog-summary {
+    color: white;
+    font-size: 13px;
+}
+.blog-summary-para {
+    text-align: left;
+    padding-right: 8px;
+    font-weight: lighter;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.blog-title-storyline {
+    text-align: center;
+    font-size: 15px;
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    letter-spacing: 2px;
+    font-family: 'Saira', sans-serif;
+    margin-bottom: 1%;
+    font-weight: 600;
+}
+.blog-title-storyline a {
+    text-decoration: none;
+    color: white;
+}
+.blog-title-storyline a:hover {
+    color: #eb2f06;
+    transition: all ease .5s;
+}
+.context {
+     font-family: 'Raleway', sans-serif;
+     font-weight: lighter;
+     margin-left: 3%;
+     padding-right: 10px;
+}
+.add-info-head {
+    font-family: 'Saira', sans-serif;
+    letter-spacing: 2px;
+    font-size: 15px;
+    margin-left: 2%;
+    margin-bottom: 1%;
+    font-weight: 600;
+}
+.add-info-head-context {
+     font-family: 'Raleway', sans-serif;
+     font-weight: lighter;
+     margin-left: 3%;
+     letter-spacing: 2px;
+}
+.widget-title {
+    font-family: 'Saira', sans-serif;
+    letter-spacing: 2px;
+    font-size: 15px;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+.rc-single-post {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+.rc-single-post a {
+    text-decoration: none;
+    color: white;
+}
+.meta--content {
+    padding-bottom: 10px;
+}
+.meta--content a:hover {
+    color: #eb2f06;
+    transition: all ease .5s;
+}
+.meta--content-ep9 {
+    margin-bottom: 3%;
+}
+.meta--content-ep9 a:hover {
+    color: #eb2f06;
+    transition: all ease .5s;
+}
